@@ -1,0 +1,115 @@
+body {
+  text-align: center;
+  margin-top: 0;
+  font-family: 'Merriweather', serif;
+}
+
+
+.photo{
+  padding-top: 10px;
+}
+
+h1 {
+  font-size: 150px;
+  color: #66BFBF;
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-size: 40px;
+  color: #66BFBF;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-section {
+  background-color: #E3FDFD;
+}
+.bottom-section{
+  background-color: #E3FDFD;
+  padding: 50px 0 20px;
+}
+
+.middle-section{
+  margin: 50px 0;
+}
+.photo1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.photo2{
+  width: 25%;
+  float: right;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 700px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 700px;
+  top: 50px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #6FEDD6;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.footer-link{
+  color: #11999E;
+}
